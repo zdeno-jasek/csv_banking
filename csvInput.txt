@@ -1,0 +1,5 @@
+datum,meno,kredit
+18.8.2018,Zdeno,500
+19.8.2018,Peter,50
+19.8.2018,Zdeno,600
+20.8.2018,Peter,20
